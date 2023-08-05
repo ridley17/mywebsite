@@ -2,7 +2,6 @@
 # A Simple developer Portfolio starter project with TailwindCSS and Vite.
 
 This project is a simple starter react app to build a developer portfolio.
-![React Portfolio](https://i.imgur.com/HndmIVq.jpg)
 
 ## Features
 
